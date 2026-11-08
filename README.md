@@ -285,3 +285,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </details>
 
 *Our launcher now supports **Windows**, **macOS**, and **Linux** with native implementations for each platform! 🌍✨*
+
+
+Update will be soon..
